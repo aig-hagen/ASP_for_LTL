@@ -1,0 +1,1 @@
+#define PYCLINGO_PYTHON_VERSION "3.9.5"

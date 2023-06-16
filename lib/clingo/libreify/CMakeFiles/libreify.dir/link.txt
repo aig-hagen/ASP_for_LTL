@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libreify.a  CMakeFiles/libreify.dir/src/program.cc.o
+/usr/bin/ranlib ../../libreify.a

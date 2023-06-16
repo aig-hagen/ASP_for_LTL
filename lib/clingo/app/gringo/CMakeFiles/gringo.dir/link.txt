@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/gringo.dir/main.cc.o  -o ../../../../bin/gringo  -Wl,-rpath,/home/isabelle/miniconda3/lib::::::::::::::: ../../../libpyclingo.a ../../../libluaclingo.a ../../../libclingo.a /home/isabelle/miniconda3/lib/libpython3.9.so ../../../libgringo.a ../../../libreify.a ../../../libclasp.a -pthread ../../../libpotassco.a -llua5.3 -lm 
